@@ -84,7 +84,7 @@ The back-end, built with Express and PostgreSQL for the database, is deployed on
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Follow the quick steps below for a local copy.
+Follow these quick steps for a local copy.
 
 ### Prerequisites
 
